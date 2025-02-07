@@ -3,6 +3,12 @@
 ## Overview
 Cities Explorer is an iOS app built using SwiftUI that displays a list of cities in Australia. The app follows the MVVM architecture and adheres to SOLID design principles to ensure scalability, maintainability, and testability.
 
+
+
+https://github.com/user-attachments/assets/9965ed52-ea02-45cb-8a37-bd7790650bef
+
+
+
 ## Features
 - **Collapsible List by State**: Displays cities grouped by state in an expandable/collapsible format.
 - **Reverse Order Button**: Allows users to reverse the order of the city list.
@@ -12,17 +18,12 @@ Cities Explorer is an iOS app built using SwiftUI that displays a list of cities
 - **Data Caching**: Ensures data is cached until a refresh is required.
 - **Responsive UI**: Adapts to different screen sizes and orientations.
 
-
-https://github.com/user-attachments/assets/cd2436d5-543e-48ee-8474-0e772e73d294
-
-
 ## Tech Stack
 - **Language**: Swift
 - **Framework**: SwiftUI
 - **Architecture**: MVVM (Model-View-ViewModel)
 - **Networking**: URLSession
 - **Storage**: UserDefaults 
-
 
 ## Implementation Details
 - **MVVM Architecture**: Separates concerns to make the code modular, scalable, and testable.
