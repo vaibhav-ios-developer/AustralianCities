@@ -12,6 +12,10 @@ Cities Explorer is an iOS app built using SwiftUI that displays a list of cities
 - **Data Caching**: Ensures data is cached until a refresh is required.
 - **Responsive UI**: Adapts to different screen sizes and orientations.
 
+
+https://github.com/user-attachments/assets/cd2436d5-543e-48ee-8474-0e772e73d294
+
+
 ## Tech Stack
 - **Language**: Swift
 - **Framework**: SwiftUI
@@ -39,10 +43,6 @@ Cities Explorer is an iOS app built using SwiftUI that displays a list of cities
 2. **Collapsible Sections**: Users can expand/collapse sections by tapping on the state header.
 3. **Sorting**: A button is provided to reverse the order of cities.
 4. **Search**: Users can search cities dynamically as they type.
-
-https://github.com/user-attachments/assets/a9f626ca-440c-4810-b3c0-cc964b8b3494
-
-
 5. **Dark Mode**: The UI adapts based on the device’s appearance settings.
 6. **Data Refresh & Caching**:
    - Cached data is used until the user initiates a refresh.
