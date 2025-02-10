@@ -5,7 +5,8 @@
 //  Created by Vaibhav  Uttekar on 07/02/25.
 //
 
-import SwiftUICore
+import SwiftUI
+
 
 enum Constants {
     static let baseURL = "https://countryaustralia.com/api/cities" // Replace with actual API endpoint
