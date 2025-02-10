@@ -25,15 +25,7 @@ https://github.com/user-attachments/assets/843deee0-42f8-4668-853a-05e5ec28ea18
 - **MVVM Architecture**: Separates concerns to make the code modular, scalable, and testable.
 - **SOLID Principles**: Ensures each class has a single responsibility and adheres to dependency inversion via protocols and dependency injection.
 - **Dependency Injection**: Improves testability by injecting dependencies where required.
-- **Constants Management**: Uses a centralized place for project-level constants.
-
-## Setup & Installation
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-repo/CitiesExplorer.git
-   ```
-2. Open `CitiesExplorer.xcodeproj` in Xcode.
-3. Build and run the app on a simulator or a physical device.
+- **Constants Management**: Uses a centralized place for project-level constants. 
 
 ## How It Works
 1. **Loading Data**: The app loads city data from a string variable and displays it in a structured list grouped by state.
